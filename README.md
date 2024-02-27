@@ -1,4 +1,3 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsb2U0MTBxNG4yNGYzMXdweWxlNnNuNDdwdjFlNWd6MnM0NWxubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" alt="Fireworks" style="display: block; margin: auto; width: 200px; height: 200px; border-radius: 50%;" />
 <h1 align="center">Hi 👋, I'm Philip Mwasi</h1>
 <h3 align="center">A data scientist and machine learning engineer </h3>
 
