@@ -1,4 +1,4 @@
-# <img src="https://media3.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif?cid=ecf05e47o8bvu9bfh2vk5v9fhrnw56evev596yz13g9cq4g5&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Fireworks" style="float: left; margin-right: 20px; width: 24px; height: 24px; border-radius: 50%;" /> 
+# <img src="https://media3.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif?cid=ecf05e47o8bvu9bfh2vk5v9fhrnw56evev596yz13g9cq4g5&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Fireworks" style="float: left; margin-right: 20px; width: 50px; height: 50px; border-radius: 50%;" /> Welcome!
 <h1 align="center">Hi 👋, I'm Philip Mwasi</h1>
 <h3 align="center">A data scientist and machine learning engineer </h3>
 
