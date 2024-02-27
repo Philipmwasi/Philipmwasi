@@ -1,5 +1,5 @@
-# <img src="https://media3.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif?cid=ecf05e47o8bvu9bfh2vk5v9fhrnw56evev596yz13g9cq4g5&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Fireworks" style="float: left; margin-right: 20px; width: 50px; height: 50px; border-radius: 50%;" /> Welcome!
-<h1 align="center">Hi 👋, I'm Philip Mwasi</h1>
+ 
+<h1 align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRsb2U0MTBxNG4yNGYzMXdweWxlNnNuNDdwdjFlNWd6MnM0NWxubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" alt="Fireworks" style="float: left; margin-right: 20px; width: 50px; height: 50px; border-radius: 50%;" />Hi 👋, I'm Philip Mwasi</h1>
 <h3 align="center">A data scientist and machine learning engineer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipmwasi" alt="philipmwasi" /></a> </p>
