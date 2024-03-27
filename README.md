@@ -25,6 +25,6 @@
 
 <h3 align="left">Badges: </h3>
 <p align="left">
-  <img src="https://images.credly.com/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="Azure Badge" width="200" height="200">
+  <img src="https://images.credly.com/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="Azure Badge" width="300" height="300">
 </p>
 
