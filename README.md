@@ -23,4 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipmwasi&show_icons=true&locale=en&layout=compact" alt="philipmwasi" /></p>
 
-![Azure Badge](https://images.credly.com/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png)
+<p align="center">
+  <img src="https://images.credly.com/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="Azure Badge" width="200" height="200">
+</p>
+
