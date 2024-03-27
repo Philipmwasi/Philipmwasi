@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipmwasi&show_icons=true&locale=en&layout=compact" alt="philipmwasi" /></p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b6a376a2-9a7e-4861-8e9f-64c52bf4e759" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
