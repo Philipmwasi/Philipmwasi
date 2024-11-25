@@ -27,4 +27,7 @@
 <p align="left">
   <img src="https://images.credly.com/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="Azure Badge" width="300" height="300">
 </p>
+<p align="left">
+  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Badge" width="300" height="300">
+</p>
 
